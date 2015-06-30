@@ -9,6 +9,7 @@
  * @namespace LookAndSay
  * A bunch of Look-and-say sequence algorithms
  * AKA Conway sequence or Morris number sequence.
+ * @author TekVila
  */
 namespace LookAndSay {
 
