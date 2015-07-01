@@ -55,7 +55,6 @@ namespace LookAndSay {
 		output << res << std::endl;
 	}
 	
-
 	/** 
 	 *  @brief Space separated Look-and-say sequence
 	 *  1
